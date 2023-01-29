@@ -1,0 +1,12 @@
+h1 {
+    color: navy;}
+img {
+    height: 400px;
+     width: 400px;}
+#thirdDiv {height: 600px;
+           width: 500px;}
+#thirdDiv {background-color: orangered;background-size: 800px;}
+#spanId {font-size: 18px;}
+#spanId {margin: 50px;}
+#thirdDiv {padding: 50px;}
+#thirdDiv {border: 80px; border-color: rgb(40, 227, 11);border-style: groove;}
